@@ -22,4 +22,10 @@ $ git clone https://github.com/Fauzi-TOD/prem
 
 $ cd prem
 
+$ git pull
+
 $ python prem.py
+
+# JANGAN TERPENGARUH SAMA TAMPILAN 
+
+# WALAW TAMPILAN JELEK LIAT HASILNYA AJH
