@@ -16,7 +16,7 @@ $ pip install futures
 
 $ pip install bs4
 
-$ git clone https://github.com/Fauzi-TOD/Prem
+$ git clone https://github.com/Fauzi-TOD/prem
 
 # Run
 
